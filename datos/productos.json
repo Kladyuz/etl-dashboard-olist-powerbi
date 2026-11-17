@@ -1,0 +1,98 @@
+[
+  {
+    "id_producto": 1,
+    "nombre_producto": "Notebook 14\"",
+    "categoria": "Electrónica",
+    "precio_lista": 549990
+  },
+  {
+    "id_producto": 2,
+    "nombre_producto": "Audífonos Bluetooth",
+    "categoria": "Electrónica",
+    "precio_lista": 39990
+  },
+  {
+    "id_producto": 3,
+    "nombre_producto": "Smartwatch",
+    "categoria": "Electrónica",
+    "precio_lista": 129990
+  },
+  {
+    "id_producto": 4,
+    "nombre_producto": "Monitor 24\"",
+    "categoria": "Electrónica",
+    "precio_lista": 159990
+  },
+  {
+    "id_producto": 5,
+    "nombre_producto": "Hervidor eléctrico",
+    "categoria": "Hogar",
+    "precio_lista": 24990
+  },
+  {
+    "id_producto": 6,
+    "nombre_producto": "Set de sartenes",
+    "categoria": "hogar",
+    "precio_lista": 49990
+  },
+  {
+    "id_producto": 7,
+    "nombre_producto": "Aspiradora",
+    "categoria": "Hogar",
+    "precio_lista": 119990
+  },
+  {
+    "id_producto": 8,
+    "nombre_producto": "Lámpara de escritorio",
+    "categoria": "Hogar",
+    "precio_lista": 19990
+  },
+  {
+    "id_producto": 9,
+    "nombre_producto": "Polerón",
+    "categoria": "Ropa",
+    "precio_lista": 29990
+  },
+  {
+    "id_producto": 10,
+    "nombre_producto": "Zapatillas urbanas",
+    "categoria": " ROPA ",
+    "precio_lista": 59990
+  },
+  {
+    "id_producto": 11,
+    "nombre_producto": "Chaqueta impermeable",
+    "categoria": "Ropa",
+    "precio_lista": 79990
+  },
+  {
+    "id_producto": 12,
+    "nombre_producto": "Bicicleta aro 29",
+    "categoria": "Deportes",
+    "precio_lista": 349990
+  },
+  {
+    "id_producto": 13,
+    "nombre_producto": "Mancuernas 10 kg",
+    "categoria": "Deportes",
+    "precio_lista": 34990
+  },
+  {
+    "id_producto": 14,
+    "nombre_producto": "Mat de yoga",
+    "categoria": null,
+    "precio_lista": 14990
+  },
+  {
+    "id_producto": 15,
+    "nombre_producto": "Botella térmica",
+    "categoria": "Deportes",
+    "precio_lista": 12990
+  },
+  {
+    "id_producto": 3,
+    "nombre_producto": "Smartwatch",
+    "categoria": "Electrónica",
+    "precio_lista": 129990
+  }
+]

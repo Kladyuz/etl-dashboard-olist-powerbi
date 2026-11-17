@@ -1,0 +1,21 @@
+# Lista blanca: solo se publica lo que está permitido abajo.
+# Todo lo demás (enunciado del ramo, capturas de notas, guías personales,
+# datos crudos y limpios pesados) queda solo en el PC.
+*
+!.gitignore
+!README.md
+!limpieza_olist.py
+!generar_datos.py
+!Seccion3_Decisiones.md
+!Seccion5_Analisis.md
+!Dashboard.PNG
+!Dashboard2.PNG
+!ESP139_Dashboard.pbix
+!datos/
+!datos/ventas.csv
+!datos/clientes.xlsx
+!datos/productos.json
+!datos_publicos/
+!datos_publicos/LEEME_Olist.md
+!datos_limpios/
+!datos_limpios/registro_limpieza.md
